@@ -1,0 +1,5 @@
+This is another new file
+
+Change after add
+
+Whant to try the git diff command
