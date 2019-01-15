@@ -1,5 +1,5 @@
 This is another new file
 
-Change after add
+Change to see the difference with -v when commit
 
 Whant to try the git diff command
