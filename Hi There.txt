@@ -3,3 +3,6 @@ This is another new file
 Change to see the difference with -v when commit
 
 Whant to try the git diff command
+
+
+and again one more change to try to use the UI git desktop
